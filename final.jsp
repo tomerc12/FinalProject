@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Cost Manager</h1>
+    <label>Hello, Ziv!</label><br>
     <form action="cost-manager" method="post">
         <label>Enter User ID:</label>
         <input type="text" name="user_id">
